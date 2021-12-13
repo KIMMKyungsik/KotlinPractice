@@ -1,4 +1,18 @@
 package org.techtown.kotlinpractice
 
-class sample1 {
+fun main(){
+    helloWorld()
+
+
+}
+
+// 1.함수
+
+fun helloWorld(){
+
+    println("Hello World")
+
+
+
+
 }
